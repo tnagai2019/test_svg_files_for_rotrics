@@ -8,6 +8,7 @@ You can create your own SVG vector image files with your iPad + Apple Pencil if 
 There is a trick creating a SVG file with the "concepts" app. If you export the entire project then the backgroud paper will also be exported and because the background is so big, your drawings will appear tiny in the Rotrics Studio software. To prevent this, just select drawings you would like to export in the "concepts" app then export choosing an option ("export only selections"). Then only the drawings will be included in the output SVG file.
 
 References:
+
 Rotrics DexArm
 https://www.rotrics.com/
 
